@@ -1,0 +1,18 @@
+program EmptyLines;
+
+
+
+var
+  x : integer;
+
+begin
+  x := 100;
+  y := 100;
+
+  w := 100;
+
+  z := 100;
+
+  
+  writeln(x);
+end.

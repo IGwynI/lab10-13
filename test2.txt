@@ -1,0 +1,9 @@
+program SumTwoNumbers;
+var
+  a, b, sum : integer;
+begin
+  a := 10;
+  b := 25;
+  sum := a + b;
+  writeln(sum);
+end.
