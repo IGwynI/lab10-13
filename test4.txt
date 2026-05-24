@@ -1,3 +1,0 @@
-program NoErrors;
-begin
-end.
